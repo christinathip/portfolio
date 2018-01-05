@@ -1265,10 +1265,13 @@ h6 .small,
 h1,
 .h1 {
   font-size: 36px;
+  text-align: center;
+
 }
 h2,
 .h2 {
   font-size: 30px;
+  font-style: italic;
 }
 h3,
 .h3 {
@@ -1416,6 +1419,7 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
+
 }
 ul ul,
 ol ul,
